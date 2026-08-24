@@ -1,17 +1,17 @@
-# Hi there, I'm Chetana Javvadhi 👋
+# Hi, I'm Chetana Javvadhi 
 
-💻 **Computer Science Engineering Student** passionate about building end-to-end Machine Learning pipelines, full-stack web applications, and scalable software solutions.
-
----
-
-### 🚀 What I'm Working On & Learning
-- 🔭 **Current Focus:** Building automated MLOps pipelines and agentic AI tools.
-- 🌱 **Learning Path:** Deepening my knowledge in **Cloud Computing & AWS (EC2, S3, IAM)**.
-- 💡 **Problem Solving:** Actively practicing Data Structures & Algorithms in **C++** and **Python**.
+**Computer Science Engineering Student** passionate about building end-to-end Machine Learning pipelines, full-stack web applications, and scalable software solutions.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### What I'm Working On & Learning
+- **Current Focus:** Building automated MLOps pipelines and agentic AI tools.
+- **Learning Path:** Deepening my knowledge in **Cloud Computing & AWS (EC2, S3, IAM)**.
+- **Problem Solving:** Actively practicing Data Structures & Algorithms in **C++** and **Python**.
+
+---
+
+### Tech Stack & Capabilities
 
 - **Languages:** Python, C++, JavaScript, SQL, HTML5/CSS3
 - **Machine Learning & MLOps:** XGBoost, Scikit-learn, MLflow, Pandas, NumPy
@@ -21,7 +21,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 - **GPU Resale Price Prediction System:** End-to-end MLOps pipeline featuring automated data scraping, XGBoost regression modeling, MLflow experiment tracking, and real-time inference served via FastAPI.
 - **AI Code Reviewer / Agent Project:** Automated AI-assisted code review tool that analyzes code snippets, detects potential bugs, and suggests structural optimizations.
@@ -31,7 +31,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/javvadhi-chetana-](https://www.linkedin.com/in/javvadhi-chetana-a17321363/)
 - **GitHub:** [github.com/chetana213](https://github.com/chetana213)
