@@ -13,10 +13,10 @@
 
 ### Tech Stack & Capabilities
 
-- **Languages:** Python, C++, JavaScript, SQL, HTML5/CSS3
+- **Languages:** Python, Java, C, JavaScript, SQL
 - **Machine Learning & MLOps:** XGBoost, Scikit-learn, MLflow, Pandas, NumPy
 - **Backend & APIs:** REST APIs, Node.js.
-- **Frontend:** React, HTML, CSS
+- **Frontend:** React, HTML5, CSS3
 - **Cloud & Developer Tools:** AWS (EC2, S3), Git, GitHub.
 
 ---
